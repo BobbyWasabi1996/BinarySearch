@@ -1,0 +1,122 @@
+[
+    {
+        "Index": 11,
+        "FirstName": "Ahmad",
+        "LastName": "Badawiwi",
+        "Phone": "0167786368",
+        "Email": "ABdawiwi@gmail.com",
+        "Affiliation":"Computer Science"
+    },
+    {
+        "Index": 22,
+        "FirstName": "Najib",
+        "LastName": "Rasa",
+        "Phone": "0138776363",
+        "Email": "NRasa@outlook.com",
+        "Affiliation":"Business Analytics"
+    },
+    {
+        "Index": 34,
+        "FirstName": "Abdul",
+        "LastName": "Ramen",
+        "Phone": "0129903927",
+        "Email": "ARamen@gmail.com",
+        "Affiliation": "Computer Science"
+    },
+    {
+        "Index": 30,
+        "FirstName": "Hussein",
+        "LastName": "Ongah",
+        "Phone": "0169904554",
+        "Email": "HOngah@gmail.com",
+        "Affiliation": "Computer Science"
+    },
+    {
+        "Index": 65,
+        "FirstName": "Mydin",
+        "LastName": "Yassin",
+        "Phone": "0123309090",
+        "Email": "stayathome@live.com",
+        "Affiliation": "Quantitative Science"
+    },
+    {
+        "Index": 61,
+        "FirstName": "Commmon",
+        "LastName": "Lee",
+        "Phone": "0189782337",
+        "Email": "SLee@gmail.com",
+        "Affiliation": "Data Structures"
+    },
+    {
+        "Index": 73,
+        "FirstName": "Tommy",
+        "LastName": "Hommie",
+        "Phone": "0176689788",
+        "Email": "THommie@gmail.com",
+        "Affiliation": "Persatuan Bulan Sabit Merah"
+    },
+    {
+        "Index": 18,
+        "FirstName": "Brock",
+        "LastName": "Kohli",
+        "Phone": "0107787887",
+        "Email": "Greens@outlook.com",
+        "Affiliation": "Reasearch Project KCS33032"
+    },
+    {
+        "Index": 19,
+        "FirstName": "Cassandra",
+        "LastName": "Kadabra",
+        "Phone": "0106505315",
+        "Email": "ck1962@gmail.com",
+        "Affiliation": "Mother"
+    },
+    {
+        "Index": 10,
+        "FirstName": "Peter",
+        "LastName": "Laxter",
+        "Phone": "0123459099",
+        "Email": "PLax@outlook.com",
+        "Affiliation": "Father"
+    },
+    {
+        "Index": 51,
+        "FirstName": "Lulu",
+        "LastName": "Peter",
+        "Phone": "0179903987",
+        "Email": "LP1992@gmail.com",
+        "Affiliation": "Younger Sister"
+    },
+    {
+        "Index": 14,
+        "FirstName": "Ali",
+        "LastName": "Baka",
+        "Phone": "0167874334",
+        "Email": "albx0907@gmail.com",
+        "Affiliation": "VTT Technologies"
+    },
+    {
+        "Index": 90,
+        "FirstName": "Ali",
+        "LastName": "Baka",
+        "Phone": "0167874787",
+        "Email": "albx0709@gmail.com",
+        "Affiliation": "VTT Technologies"
+    },
+    {
+        "Index": 13,
+        "FirstName": "Brandon",
+        "LastName": "Tang",
+        "Phone": "0197734340",
+        "Email": "BTang@outlook.com",
+        "Affiliation": "Nexon Technologies"
+    },
+    {
+        "Index": 24,
+        "FirstName": "Steven",
+        "LastName": "Yang",
+        "Phone": "0189003540",
+        "Email": "StevenYang1990@hmail.com",
+        "Affiliation": "Kelab Badminton JB"
+    }
+]
